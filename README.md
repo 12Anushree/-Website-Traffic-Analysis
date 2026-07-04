@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=0,15,20&height=350&section=header&text=Website%20Traffic%20Analysis&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Turning%20Clicks%20Into%20Insights&descSize=22&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=4,15,20&height=250&section=header&text=Website%20Traffic%20Analysis&fontSize=45&fontColor=00000&animation=fadeIn&fontAlignY=40&desc=Turning%20Clicks%20Into%20Insights&descSize=22&descAlignY=65"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=1FB8FF&center=true&vCenter=true&width=700&lines=📊+520K%2B+Sessions+Analyzed;🎯+Conversion+Funnel+Deep+Dive;📱+Device+%26+Geo+Insights;💰+Optimize+for+Growth"/>
@@ -60,8 +60,40 @@ Analyze **523K+ sessions** of Google Analytics data to understand user behavior,
 <img width="870" height="557" alt="image" src="https://github.com/user-attachments/assets/19cccdda-fe96-404f-873a-4c753e823eb2" />
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"><div align="center">
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-</div><img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=0,10,20&height=120&section=footer&fontColor=fff&animation=twinkling"/> 
+## 🌐 Connect & Follow
+
+<div align="center">
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=Let's+build+something+amazing+together!;Open+to+collaborations+%26+opportunities;Feel+free+to+reach+out+anytime!" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<p align="center">
+  <a href="www.linkedin.com/in/anushree-saha-4bb3a4368">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" height="60"/>
+  </a>
+  <a href="mailto:riyaggit58@gmail.com">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" height=60"/>
+  </a>
+  <a href="https://github.com/12Anushree">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" height="60"/>
+  </a>
+</p>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ⭐ If you found this project helpful, please give it a star!
+
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Marquee" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=4,15,20&height=150&section=footer&text=Happy%20Coding!%20💻&fontSize=32&fontColor=00000&animation=fadeIn&fontAlignY=60"/>
