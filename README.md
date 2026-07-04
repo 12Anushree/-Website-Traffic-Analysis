@@ -96,4 +96,4 @@ Analyze **523K+ sessions** of Google Analytics data to understand user behavior,
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=4,15,20&height=150&section=footer&text=Happy%20Coding!%20💻&fontSize=32&fontColor=00000&animation=fadeIn&fontAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=4,25,20&height=150&section=footer&text=Happy%20Coding!%20💻&fontSize=32&fontColor=00000&animation=fadeIn&fontAlignY=60"/>
