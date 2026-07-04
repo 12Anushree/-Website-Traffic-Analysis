@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=4,15,20&height=250&section=header&text=Website%20Traffic%20Analysis&fontSize=45&fontColor=00000&animation=fadeIn&fontAlignY=40&desc=Turning%20Clicks%20Into%20Insights&descSize=22&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=14,25,20&height=160&section=header&text=Website%20Traffic%20Analysis&fontSize=45&fontColor=00000&animation=fadeIn&fontAlignY=40&desc=Turning%20Clicks%20Into%20Insights&descSize=22&descAlignY=65"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=1FB8FF&center=true&vCenter=true&width=700&lines=📊+520K%2B+Sessions+Analyzed;🎯+Conversion+Funnel+Deep+Dive;📱+Device+%26+Geo+Insights;💰+Optimize+for+Growth"/>
