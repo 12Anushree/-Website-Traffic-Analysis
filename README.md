@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=040A7A,7A2F04,E7F705&height=120&section=header&text=Website%20Traffic%20Analysis&fontSize=45&fontColor=00000&animation=fadeIn&fontAlignY=30&desc=Turning%20Clicks%20Into%20Insights&descSize=22&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:facc15,20:fb923c,40:f97316,65:ef4444,85:ec4899,100:be185d&height=150&section=header&text=Website%20Traffic%20Analysis&fontSize=45&fontColor=00000&animation=fadeIn&fontAlignY=30&desc=Turning%20Clicks%20Into%20Insights&descSize=22&descAlignY=65"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=1FB8FF&center=true&vCenter=true&width=700&lines=📊+520K%2B+Sessions+Analyzed;🎯+Conversion+Funnel+Deep+Dive;📱+Device+%26+Geo+Insights;💰+Optimize+for+Growth"/>
@@ -96,7 +96,7 @@ Analyze **523K+ sessions** of Google Analytics data to understand user behavior,
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=040A7A,7A2F04,E7F705&height=120&section=footer&text=⭐%20Star%20•%20🔱%20Fork%20•%20👀%20Watch&fontSize=28&fontColor=00000&animation=twinkling&fontAlignY=50&desc=Your%20support%20motivates%20me%20to%20create%20more!&descSize=16&descAlignY=78"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:facc15,20:fb923c,40:f97316,65:ef4444,85:ec4899,100:be185d&height=120&section=footer&text=⭐%20Star%20•%20🔱%20Fork%20•%20👀%20Watch&fontSize=28&fontColor=00000&animation=twinkling&fontAlignY=50&desc=Your%20support%20motivates%20me%20to%20create%20more!&descSize=16&descAlignY=78"/>
 
 <div align="center">
 
